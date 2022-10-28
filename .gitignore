@@ -1,0 +1,8 @@
+# Folders
+.idea
+dist-types
+node_modules
+
+# Files
+.iml
+app-config.local.yaml
