@@ -1,0 +1,15 @@
+fileignoreconfig:
+- filename: packages/backend/dist/main.js
+  checksum: 03476a6c4d809daf89a5ae67d29c04b2713bcdf7d0e79b1acd10c1d05172b0fd
+- filename: yarn.lock
+  checksum: d2e16248d0f7c5b590d074abdb0ddfcf04d7a9eac55e2e3b428a22d5ad75c79a
+- filename: app-config.yaml
+  checksum: cd1fd0fee39d3196e5aa68641d46374554a6c8d25a0ea9ee36ca652e50fd9b0b
+- filename: app-config.production.yaml
+  checksum: 4972e53d61146cdb7dea9d7e37e5c64c88954ce24d834e155e5e848875016075
+- filename: packages/app/src/components/search/SearchPage.tsx
+  checksum: eb3b6cdd8c2f4602d2c654b0d14f825d23ee0e4d48be767cd9e34486a063205b
+- filename: packages/backend/README.md
+  checksum: 2b3d2ffa6f875965b9e0c7b0fd30d0ffb6fe43b15451be2e9eba798179b3da02
+- filename: plugins/first-plugin/src/components/ExampleFetchComponent/ExampleFetchComponent.tsx
+  checksum: bae4c5d3ce713bc4da5591a665654fe0f7fcb4244c4689fe004a9168b8ac10b8

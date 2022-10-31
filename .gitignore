@@ -1,8 +1,12 @@
 # Folders
 .idea
-dist-types
 node_modules
+dist-types
+dist
 
 # Files
 .iml
-app-config.local.yaml
+*.local.yaml
+*.log
+.nvmrc
+.DS_Store
